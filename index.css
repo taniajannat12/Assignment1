@@ -244,9 +244,9 @@ font-weight: 500;
   display:flex;
   justify-content:center;
   width:1500px;
-  height:300px;
+  height:700px;
   gap:60px;
-padding-top:0;
+
 }
 .solution{
  
@@ -258,5 +258,50 @@ padding-top:0;
   height:500px;
   padding-top:100px;
 
+
+}
+
+.r1{
+  border:1px solid white;
+  background-color: #d9dcde;
+  padding-top:80px;
+  padding-bottom:80px;
+  padding-left:40px;
+  padding-right: 40px;
+  margin-left:115px;
+  margin-right:115px;
+}
+
+.r{
+  text-align: center;
+  font-style: Bold;
+font-size: 40px;
+font-weight: 700;
+}
+
+.j{
+  padding-top:16px;
+  text-align:center;
+  font-size:16px;
+  color:#627382;
+}
+
+.bb{
+   padding-top:24px;
+  display:flex;
+  justify-content: center;
+  align-items:center;
+}
+.button1{
+  width:160px;
+  height:44px;
+  padding:12px 12px 16px 16px;
+  font-weight:800;
+  font-size:small;
+  color:white;
+  background-color: #30B868;
+  border-radius: 4px;
+  border:1px solid white;
+  
 
 }
